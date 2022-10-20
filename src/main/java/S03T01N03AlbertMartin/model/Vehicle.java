@@ -1,4 +1,4 @@
-package S03T01N03AlbertMartin;
+package S03T01N03AlbertMartin.model;
 
 public class Vehicle {
 

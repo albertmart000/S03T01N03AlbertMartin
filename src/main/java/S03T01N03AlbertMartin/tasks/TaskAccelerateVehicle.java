@@ -1,7 +1,7 @@
-package S03T01N03AlbertMartin.Tasks;
+package S03T01N03AlbertMartin.tasks;
 
-import S03T01N03AlbertMartin.Interfaces.VehicleTask;
-import S03T01N03AlbertMartin.Vehicle;
+import S03T01N03AlbertMartin.interfaces.VehicleTask;
+import S03T01N03AlbertMartin.model.Vehicle;
 
 public class TaskAccelerateVehicle implements VehicleTask {
 

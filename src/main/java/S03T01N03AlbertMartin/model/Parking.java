@@ -1,4 +1,4 @@
-package S03T01N03AlbertMartin;
+package S03T01N03AlbertMartin.model;
 
 import S03T01N03AlbertMartin.interfaces.VehicleTask;
 
